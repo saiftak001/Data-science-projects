@@ -1,0 +1,7 @@
+apriori==1.0.0
+apyori==1.1.2
+beautifulsoup4==4.9.1
+bs4==0.0.1
+pydotplus==2.0.2
+pyparsing==2.4.7
+soupsieve==2.0.1
